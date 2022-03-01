@@ -1,4 +1,6 @@
 use std::io;
+use std::io::Write;
+
 
 #[cfg(test)]
 mod tests {
